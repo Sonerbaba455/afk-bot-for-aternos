@@ -1,5 +1,7 @@
 {
-	"ip":"yourip.aternos.me",
-	"port": "25565",
+	"ip":"soner123456aternos.me",
+	"port": "64276",
 	"name": "afk_bot"
+	"register":"password"
+	"login":"login"
 }
